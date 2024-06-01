@@ -1,0 +1,27 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "An implementation of the binary search tree (BST) data structure",
+  "main": "driver.js",
+  "scripts": {
+    "test": "node driver"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Nisul/binary-search-tree.git"
+  },
+  "keywords": [
+    "Data",
+    "Structures",
+    "Binary",
+    "Trees",
+    "Back-end"
+  ],
+  "author": "Nisul Munidasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-Nisul/binary-search-tree/issues"
+  },
+  "homepage": "https://github.com/M-Nisul/binary-search-tree#readme",
+  "type": "module"
+}
